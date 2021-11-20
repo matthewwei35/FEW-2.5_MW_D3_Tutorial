@@ -99,6 +99,13 @@
             })
             .attr('stroke', '#000')
             .attr('fill', 'none')
+          node
+            .append('text')
+            .text(d => d.label)
+            .attr('x', 20)
+            .attr('y', (d, i) => (30 * i) + 500)
+            .style('font-family', 'Helvetica')
+            .style('font-size', '18px')
       })
   </script>
 </body>
