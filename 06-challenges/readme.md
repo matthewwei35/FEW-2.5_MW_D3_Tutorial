@@ -1,5 +1,7 @@
 # Challenges
 
+# Completed these challenges in 05
+
 Try these challenges to test your D3 skills. You should be able to solve these challenges using the ideas from the previous tutorial pages. 
 
 **Challenge**
